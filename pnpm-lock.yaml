@@ -112,8 +112,8 @@ importers:
         specifier: ^0.8.0
         version: 0.8.0
       zhi-siyuan-api:
-        specifier: ^2.26.0
-        version: 2.26.0(typescript@5.6.3)
+        specifier: ^2.26.3
+        version: 2.26.3(typescript@5.6.3)
     devDependencies:
       '@eslint/js':
         specifier: ^9.15.0
@@ -5118,8 +5118,8 @@ packages:
   zhead@2.2.4:
     resolution: {integrity: sha512-8F0OI5dpWIA5IGG5NHUg9staDwz/ZPxZtvGVf01j7vHqSyZ0raHY+78atOVxRqb73AotX22uV1pXt3gYSstGag==}
 
-  zhi-blog-api@1.67.2:
-    resolution: {integrity: sha512-ieke5izvzeMXvB1LCu9Fhaf3M5uSSrYATcLXbbiEBqBPBPH9PCmnfvC5TTRJadLEAaimlP/UFE+lL9X4muXyNg==}
+  zhi-blog-api@1.70.0:
+    resolution: {integrity: sha512-2zHydHFuk1/Y6GLSEWerNe7MYPHLZo+CKLlQrcAaQHQBQXu56gCv12ZOe0ygvvw/tV/cTuS3+QSUz2A8Bh43JA==}
 
   zhi-common@1.33.1:
     resolution: {integrity: sha512-R+/9Ha2bF44I2a/vF9EDewvb4KK2AxnC03LOBXwCyAFQkge+EKvua5zYqeNMNMYn9aUBDJ6MEOyrd2CORe2QcA==}
@@ -5130,8 +5130,8 @@ packages:
   zhi-lib-base@0.8.0:
     resolution: {integrity: sha512-3Ky5p6KvLWpXy2tlb/JIfSEKLSe5w43PBLM6g+hNcWwpL9S62emgcpUAHzGWBbC0vlLBLungt2LOsmwAfhrZ0w==}
 
-  zhi-siyuan-api@2.26.0:
-    resolution: {integrity: sha512-NhANgwBgP//RRjdwqcxWDmXH7wxtaikkbk+ijt4XRGg9D9lePI47vFZdU/YLCOJ8Nz8mgBT5O1+jF3yHXwMIqQ==}
+  zhi-siyuan-api@2.26.3:
+    resolution: {integrity: sha512-Wt/pGBba3+Kx7FS6NnsiR33Hvn+7MuzVB4YjqizARIPi5seB1f3K0BunNkhTzBE6pCfYM1PiA1rkqazVMi5B+A==}
 
   zip-stream@6.0.1:
     resolution: {integrity: sha512-zK7YHHz4ZXpW89AHXUPbQVGKI7uvkd3hzusTdotCg1UxyaVtg0zFJSTfW/Dq5f7OBBVnq6cZIaC8Ti4hb6dtCA==}
@@ -10800,7 +10800,7 @@ snapshots:
 
   zhead@2.2.4: {}
 
-  zhi-blog-api@1.67.2(typescript@5.6.3):
+  zhi-blog-api@1.70.0(typescript@5.6.3):
     dependencies:
       zhi-common: 1.33.1(typescript@5.6.3)
       zhi-lib-base: 0.8.0
@@ -10821,9 +10821,9 @@ snapshots:
 
   zhi-lib-base@0.8.0: {}
 
-  zhi-siyuan-api@2.26.0(typescript@5.6.3):
+  zhi-siyuan-api@2.26.3(typescript@5.6.3):
     dependencies:
-      zhi-blog-api: 1.67.2(typescript@5.6.3)
+      zhi-blog-api: 1.70.0(typescript@5.6.3)
       zhi-common: 1.33.1(typescript@5.6.3)
       zhi-lib-base: 0.8.0
     transitivePeerDependencies:
