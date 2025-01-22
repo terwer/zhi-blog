@@ -7,7 +7,7 @@
     "clean": "rimraf node_modules"
   },
   "devDependencies": {
-    "@vue/tsconfig": "^0.5.1"
+    "@vue/tsconfig": "^0.7.0"
   },
   "publishConfig": {
     "access": "public"
